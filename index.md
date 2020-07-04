@@ -13,8 +13,6 @@ Wir haben Mittwoch - Sonntags für Sie geöffnet:
 Rufen Sie uns an unter [05254 - 7270](tel:+4952547270) oder schreiben 
 Sie uns [info@forellenhof-wueseke.de](mailto:info@forellenhof-wueseke.de)
 
-##Anfahrt
-Bielefelder Straße 205  
-33104 Paderborn-Sennelager  
-
-[Ansicht bei Google Maps](https://goo.gl/maps/gtdpLJw6Ckz7rnoU7)  
+## Anfahrt
+[Bielefelder Straße 205  
+33104 Paderborn-Sennelager](https://goo.gl/maps/gtdpLJw6Ckz7rnoU7)  
