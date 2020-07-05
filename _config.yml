@@ -1,4 +1,3 @@
-remote-theme: cvoegtle/forellenhof-theme
+remote-theme: cvoegtle/jekyll-theme-cayman
 title: Forellenhof Demo
 description: Diese Seite zeigt, wie die Homepage des Forellenhof mit Github Pages aussehen kann.
-theme: jekyll-theme-cayman
