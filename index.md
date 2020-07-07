@@ -4,7 +4,7 @@ Michaele Wüseke und ihr Team freuen sich auf Ihren Besuch.
 [Unsere Speisekarte](https://speisekarte.de/download/2020.pdf) als PDF
 
 ## Öffnungszeiten
-Wir haben Mittwoch - Sonntags für Sie geöffnet:
+Wir haben Mittwoch - Sonntag für Sie geöffnet:
 
 11:45 - 14:30 Uhr   
 17:30 - 21:30 Uhr
