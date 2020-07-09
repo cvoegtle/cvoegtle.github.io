@@ -1,4 +1,5 @@
 ## Herzlich willkommen im Forellenhof
+Wir sind Ihre Experten für frisch zubereitete Forrellen in Sennelager. 
 Michaele Wüseke und ihr Team freuen sich auf Ihren Besuch. 
 
 [Unsere Speisekarte](https://speisekarte.de/download/2020.pdf) als PDF
